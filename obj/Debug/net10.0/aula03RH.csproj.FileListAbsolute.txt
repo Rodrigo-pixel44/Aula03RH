@@ -1,0 +1,14 @@
+D:\aula03RH\bin\Debug\net10.0\aula03RH.exe
+D:\aula03RH\bin\Debug\net10.0\aula03RH.deps.json
+D:\aula03RH\bin\Debug\net10.0\aula03RH.runtimeconfig.json
+D:\aula03RH\bin\Debug\net10.0\aula03RH.dll
+D:\aula03RH\bin\Debug\net10.0\aula03RH.pdb
+D:\aula03RH\obj\Debug\net10.0\aula03RH.GeneratedMSBuildEditorConfig.editorconfig
+D:\aula03RH\obj\Debug\net10.0\aula03RH.AssemblyInfoInputs.cache
+D:\aula03RH\obj\Debug\net10.0\aula03RH.AssemblyInfo.cs
+D:\aula03RH\obj\Debug\net10.0\aula03RH.csproj.CoreCompileInputs.cache
+D:\aula03RH\obj\Debug\net10.0\aula03RH.dll
+D:\aula03RH\obj\Debug\net10.0\refint\aula03RH.dll
+D:\aula03RH\obj\Debug\net10.0\aula03RH.pdb
+D:\aula03RH\obj\Debug\net10.0\aula03RH.genruntimeconfig.cache
+D:\aula03RH\obj\Debug\net10.0\ref\aula03RH.dll
