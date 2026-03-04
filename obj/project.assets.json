@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\aula03RH\\aula03RH.csproj",
+      "projectUniqueName": "D:\\CloneA03\\Aula03RH\\aula03RH.csproj",
       "projectName": "aula03RH",
-      "projectPath": "D:\\aula03RH\\aula03RH.csproj",
+      "projectPath": "D:\\CloneA03\\Aula03RH\\aula03RH.csproj",
       "packagesPath": "D:\\NugetPackages",
-      "outputPath": "D:\\aula03RH\\obj\\",
+      "outputPath": "D:\\CloneA03\\Aula03RH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
